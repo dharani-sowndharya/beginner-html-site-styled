@@ -22,7 +22,7 @@ html {
 
 body {
   width: 600px;
-  margin: 100px auto;
+  margin: 75px auto;
   background-color: #EDF1F3FF;
   padding: 20px 20px 20px 20px;
   border: 5px solid #F2617A;
@@ -31,8 +31,8 @@ body {
 h1 {
   margin: 0;
   padding: 25px 0;
-  color: #47A1AD;
-  text-shadow: 3px 3px 1px #F2617A;
+  color: #634F7D;
+  /* text-shadow: 3px 3px 1px #F2617A; */
 }
 
 img {
